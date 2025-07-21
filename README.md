@@ -48,7 +48,7 @@
 <!-- Connect With Me -->
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/bablu-kumar"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/bablu-kumar-673276323"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://instagram.com/bablu_kumar_5455"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://github.com/bablukumar7"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="mailto:bablukumar06800@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
