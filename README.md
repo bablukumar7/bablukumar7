@@ -91,11 +91,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablukumar7&theme=xcode" />
 </p>
 
-<!-- Snake Contribution -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/bablukumar7/bablukumar7/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+
 
 <!-- Quote of the Day -->
 <h2 align="center">📜 Quote of the Day</h2>
@@ -117,7 +113,7 @@
 </p>
 <p align="center">
   <b>✨ Let's connect and create something amazing!</b><br><br>
-  <a href="mailto:bablukumar@example.com">
+  <a href="mailto:bablukumar06800example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
