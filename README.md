@@ -48,11 +48,10 @@
 <!-- Connect With Me -->
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/bablukumar7"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://linkedin.com/Bablu Kumar"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/bablu_kumar_5455"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://github.com/bablukumar7"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:bablukumar@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="mailto:bablukumar06800@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 <!-- Tech Stack -->
