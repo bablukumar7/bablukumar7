@@ -60,13 +60,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,python,c,cpp,git,mysql,docker" />
 </p>
 
-<!-- GitHub Streak Stats -->
-<h2 align="center">🔥 GitHub Streak Stats</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=bablukumar7&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 <!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
